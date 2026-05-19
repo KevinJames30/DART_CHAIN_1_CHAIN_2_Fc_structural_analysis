@@ -1,0 +1,7 @@
+Residue_Name,Residue_ID,Chain_ID,Structure_Type,SASA_Angstrom2
+Methionine,153,A,Native,1.2605832013291307
+Methionine,200,A,Native,0.0
+Asparagine,174,A,Native,104.76735153944736
+Methionine,153,A,PTM,1.6551256011690811
+Methionine,200,A,PTM,0.0
+Aspartic Acid,174,A,PTM,106.97704966027528
