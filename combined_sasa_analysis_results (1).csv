@@ -1,0 +1,7 @@
+Residue,Chain_ID,SASA_Angstrom2,Structure_Type
+Methionine 4,A,11.498378028234283,Native
+Methionine 172,A,3.871917207864831,Native
+Methionine 411,A,52.492680055057264,Native
+Methionine 4,A,10.78577889920804,PTM
+Methionine 172,A,2.423863952815077,PTM
+Methionine 411,A,51.8493214218583,PTM
